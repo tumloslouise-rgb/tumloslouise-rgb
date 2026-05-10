@@ -18,8 +18,8 @@ Executive Operations Virtual Assistant focused on:
 - Flowlabs
 
 ## About Me
-I help businesses stay organized, manage workflows efficiently, and support daily operations with accuracy and reliability.
+I support business owners and growing teams by helping manage workflows, organize operations, maintain accuracy, and improve day-to-day processes through reliable administrative and operational support.
 
 ## Connect With Me
-- Upwork
-- LinkedIn
+- [Upwork](https://www.upwork.com/freelancers/~01bb979c07f8f2fe27)
+- [LinkedIn](https://www.linkedin.com/in/erica-louise-tumlos-710183311/)
