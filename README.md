@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I’m Erica Louise👋
 
-<!--
-**tumloslouise-rgb/tumloslouise-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Executive Operations Virtual Assistant focused on:
+- ClickUp Workflow Management
+- Shopify Support
+- QA & Accuracy Review
+- SOP Documentation
 
-Here are some ideas to get you started:
+## Tools I Use
+- Google Workspace
+- ClickUp
+- Shopify
+- Slack
+- Canva
+- ChatGPT
+- Semrush
+- Flowlabs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I help businesses stay organized, manage workflows efficiently, and support daily operations with accuracy and reliability.
+
+## Connect With Me
+- Upwork
+- LinkedIn
