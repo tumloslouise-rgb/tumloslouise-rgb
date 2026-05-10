@@ -5,6 +5,7 @@ Executive Operations Virtual Assistant focused on:
 - Shopify Support
 - QA & Accuracy Review
 - SOP Documentation
+- On-Page SEO Optimization
 
 ## Tools I Use
 - Google Workspace
